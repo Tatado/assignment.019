@@ -1,0 +1,42 @@
+1.
+ The difference between an object and an instance is, an object is a thing and an instance is a relation.
+ In other words, instance describes the relation of an object to the class that the object was made from.
+2.
+There are basically three types of variables in Java, Java Local variable.
+ Java Instance variable. Java Static variable / Java class variable.
+3.
+Explicit knowledge. Explicit knowledge can be documented, transmitted, and most importantly, learned by outsiders.
+Implicit knowledge
+Tacit knowledge
+Declarative knowledge
+Procedural knowledge
+A priori knowledge
+A posteriori knowledge
+4.
+A method is a function that “belongs to” an object. (In Python, the term method is not unique to class instances: other object types can have methods as well.
+The difference is that a method is associated with an object, while a function is not. Let's explore some of JavaScript's built-in methods.
+5.
+Python is one of the few modern programming languages that supports multiple inheritance.The Syntax for Inheritance in C++
+6.
+Python does not have the private keyword, unlike some other object oriented languages, 
+but encapsulation can be done. Instead, it relies on the convention: 
+a class variable that should not directly be accessed should be prefixed with an underscore.
+7.
+                 Class	
+                                                                    Object
+
+A class is a template for creating objects in program.	        The object is an instance of a class.
+A class is a logical entity	                                Object is a physical entity
+A class does not allocate memory space when it is created.	Object allocates memory space whenever they are created.
+8.
+There is no difference. One performs a+b , the other b+a . Likewise rmul and mul produce the same result, but rsub and sub & rdiv and div do not.
+9.
+Reflection is a process of exploring and examining ourselves, our perspectives, attributes, experiences and actions / interactions.
+ It helps us gain insight and see how to move forward. Reflection is often done as writing,
+ possibly because this allows us to probe our reflections and develop them more thoughtfully.
+10.
+This function is used to assign and add the current value.
+11.
+If, as is common, SubClass actually does want to have all of BaseClass 's invariants set up before it goes on to do its own customisation, 
+then yes  we can just call BaseClass. __init__() (or use super , 
+but that's complicated and has its own problems sometimes).
